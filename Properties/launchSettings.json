@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DummyS3": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temp"
+    }
+  }
+}
